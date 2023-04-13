@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Mengyu Yao.
 
 <!--
 **Yao-mengyu/Yao-mengyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning computer science and technology in Nanjing University.
+- 🔭 I’m currently working on completing my graduation thesis, the topic is **repair command lines automatically**.
+- 😄 I'm going to be a PH.D. student in the OSLab in Peiking University this autumn.
+- 📫 How to reach me: mengyuyao@smail.nju.edu.cn
