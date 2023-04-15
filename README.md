@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning computer science and technology in Nanjing University.
 - 🔭 I’m currently working on completing my graduation thesis, the topic is **repair command lines automatically**.
-- 😄 I'm going to be a PH.D. student in the OSLab in Peiking University this autumn.
+- 😄 I'm going to be a Ph.D student in the OSLab in Peking University this autumn.
 - 📫 How to reach me: mengyuyao@smail.nju.edu.cn
