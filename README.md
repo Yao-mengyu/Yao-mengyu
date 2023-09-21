@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently a Ph.D student in the OSLab in Peking University, and I obtained my Bachelor degree in computer science and technology department from Nanjing University.
+- 🌱 I’m currently a Ph.D student in the OSLab in Peking University, and I obtained my Bachelor degree in Computer Science and Technology from Nanjing University.
 - 🔭 I’m currently working on [TBD].
 - 📫 How to reach me: mengyuyao@stu.pku.edu.cn
