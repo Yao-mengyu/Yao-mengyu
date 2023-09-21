@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning computer science and technology in Nanjing University.
-- 🔭 I’m currently working on completing my graduation thesis, the topic is **repair command lines automatically**.
-- 😄 I'm going to be a Ph.D student in the OSLab in Peking University this autumn.
-- 📫 How to reach me: mengyuyao@smail.nju.edu.cn
+- 🌱 I’m currently a Ph.D student in the OSLab in Peking University, and I obtained my Bachelor degree in computer science and technology department from Nanjing University.
+- 🔭 I’m currently working on [TBD].
+- 📫 How to reach me: mengyuyao@stu.pku.edu.cn
