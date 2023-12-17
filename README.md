@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently a Ph.D student in the OSLab in Peking University, and I obtained my Bachelor degree in Computer Science and Technology from Nanjing University.
-- 🔭 I’m currently working on [TBD].
+- 🔭 I’m currently working on AI Security and Kernel Debloating.
 - 📫 How to reach me: mengyuyao@stu.pku.edu.cn
